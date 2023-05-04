@@ -19,8 +19,8 @@ Note : Hyperparameters ```alpha``` and ```beta``` control the amount of style an
 * Decreasing the ratio ```alpha/beta``` increases the retention of style layout in the target image
 
 ## Results
-![generated_stack-1.png](/)
-![generated-stack-2.png](/)
+![generated_stack-1.png](/results/generated_stack-1.png)
+![generated_stack-2.png](/results/generated_stack-2.png)
 
 ## Alternate Solutions
 There are several variations of Neural Style Transfer, but one of the most common approaches is to use a generative adversarial network (GAN), specifically a conditional GAN (cGAN), that conditions on the original image and generates a new image that has the desired artistic style. The GAN is trained with a loss function that encourages the generated image to match the style of the reference image while preserving the content of the original image.
