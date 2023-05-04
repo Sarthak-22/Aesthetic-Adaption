@@ -19,7 +19,7 @@ Note : Hyperparameters ```alpha``` and ```beta``` control the amount of style an
 * Decreasing the ratio ```alpha/beta``` increases the retention of style layout in the target image
 
 ## Results
-![generated-stack-1.png](/)
+![generated_stack-1.png](/)
 ![generated-stack-2.png](/)
 
 ## Alternate Solutions
