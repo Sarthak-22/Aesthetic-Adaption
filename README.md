@@ -17,7 +17,7 @@ argparse
 ```
 Run the code as follows
 ```
-python NeuralStyleTransfer.py content.jpg style.jpg
+python neuralstyletransfer.py content.jpg style.jpg
 ```
 where ```content.jpg``` and ```style.jpg``` refer to the original reference image and artistic style image respectively. You can test with any content and style image of your choice by changing the argument path in the command line
 
