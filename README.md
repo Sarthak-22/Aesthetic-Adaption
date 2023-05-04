@@ -30,7 +30,7 @@ Note : Hyperparameters ```alpha``` and ```beta``` control the amount of style an
 ![generated_stack-2.png](/results/generated_stack-2.png)
 
 ## Pros
-* Uniqueness : Uniquely combines the content of one image and style of another. User can provide their own custom combination of a content image and style image to generate a stylized reference image.
+* Uniqueness : Uniquely combines the content of one image and style of another. User can provide any combination of a content image and style image to generate a stylized reference image.
 * Diverse Style transfer : Transfers the style of a famous artist to any image, allowing for the creation of custom art in the style of a particular artist and vise versa i.e a given image can be transferred to the style of many famous artists.
 * Fast and Efficient : No need to train memory-intensive CNN Models unlike the GAN (particularly cGAN) approach for Neural Style Transfer. The model weights remain freezed and only the input image is optimized according to the content and style features
 * Commercial Applications : Outputs are visually appealing and realistic, making it suitable for use in advertising and design industry.
